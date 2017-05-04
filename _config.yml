@@ -4,3 +4,5 @@ title: CUG17 Burst Buffer Tutorial
 releases: 1.0
 gems:
   - jekyll-sitemap
+
+theme: jekyll-theme-cayman
