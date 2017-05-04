@@ -1,0 +1,6 @@
+heme: jekyll-theme-cayman
+markdown: kramdown
+title: CUG17 Burst Buffer Tutorial
+releases: 1.0
+gems:
+  - jekyll-sitemap
