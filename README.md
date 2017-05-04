@@ -2,7 +2,7 @@
 
 ## Welcome to CUG17 BB Tutorial
 
-A framework to explore the performance of Burst Buffer
+Material for CUG17 BB Tutorial
 
 ### Instructions
 
