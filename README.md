@@ -2,12 +2,15 @@
 
 ## Welcome to CUG17 BB Tutorial
 
-Material for CUG17 BB Tutorial
+Download material:
 
-### Instructions
+git clone https://github.com/KAUST-KSL/CUG17_BB_TUTORIAL.git
 
-Under update
 
-### Code
+### Complex Workflow
 
-Under update
+cd complex
+
+#### Adjust workflow
+
+Under development
