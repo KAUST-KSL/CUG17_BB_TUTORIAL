@@ -13,7 +13,7 @@
 #DW persistentdw name=george_test
 
 #DW stage_in type=directory source=/project/k01/markomg/burst_buffer_early_access/wrfchem/wrfchem-3.7.1_burst/test/em_real/forburst  destination=$DW_PERSISTENT_STRIPED_george_test
-#DW stage_out type=directory destination=/project/k01/markomg/wrfchem_stage_out source=$DW_PERSISTENT_STRIPED_george_test
+##DW stage_out type=directory destination=/project/k01/markomg/wrfchem_stage_out source=$DW_PERSISTENT_STRIPED_george_test
 
 
 ulimit -s unlimited

@@ -5,7 +5,6 @@
 ##SBATCH -A k01
 #SBATCH  --ntasks=32
 #SBATCH --ntasks-per-node=32
-##SBATCH --ntasks-per-socket=16
 
 #SBATCH   -J PLOT_AND_STAGE_OUT
 #SBATCH -o out_%j
