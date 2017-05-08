@@ -34,3 +34,5 @@ For this example: sbatch wrfchem_bb_persistent.sh   (check job id, WRF-CHEM is n
  * Delete the BB persistent allocation
  
  sbatch delete_persistent.sh
+ 
+ [WRF-CHEM demo video](https://www.youtube.com/watch?v=C2g9SCX5fBo)
